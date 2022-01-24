@@ -2,4 +2,6 @@
 
 ### Command to pull image repository:
 
- ``docker-compose up``
+ ```
+ docker-compose up
+ ```
